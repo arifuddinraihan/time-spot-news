@@ -10,10 +10,10 @@ const RightNav = () => {
         <div className=''>
             <div className="d-grid gap-2 text-center">
                 <Button size="lg" className='d-flex align-items-center mb-1 justify-content-center' variant='outline-success'>
-                    <FaGoogle className='me-2'></FaGoogle> Login
+                    <FaGoogle className='me-2'></FaGoogle> Login with Goolge
                 </Button>
                 <Button size="lg" className='d-flex align-items-center mb-1 justify-content-center' variant='outline-dark'>
-                    <FaGithub className='me-2'></FaGithub> GitHub
+                    <FaGithub className='me-2'></FaGithub> Login with GitHub 
                 </Button>
                 <h4>Find us on</h4>
                 <ListGroup>
